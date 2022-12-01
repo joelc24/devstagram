@@ -33,7 +33,7 @@
                 </p>
 
                 <p class="text-gray-800 text-sm mb-3 font-bold">
-                    {{ $user->followings>count() }}
+                    {{ $user->followings->count() }}
                     <span class="font-normal uppercase">Siguiendo</span>
                 </p>
 
