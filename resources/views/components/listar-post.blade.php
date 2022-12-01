@@ -18,4 +18,4 @@
     @else
         <p class="text-center">No hay posts, Sigue a alguien para mostrar sus posts</p>
     @endif
-</div>
+</div> 
